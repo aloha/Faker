@@ -5,7 +5,7 @@ namespace Faker\Test\Provider;
 use Faker\Provider\ProHockey;
 use Faker\Generator;
 
-class HockeyTest extends \PHPUnit_Framework_TestCase
+class ProHockeyTest extends \PHPUnit_Framework_TestCase
 {
 
     /**
